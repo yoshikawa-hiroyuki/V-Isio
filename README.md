@@ -21,7 +21,8 @@ V-Isio is installed at `/Application/Vtools`
 Please add command search path as follows:  
 `/Applications/Vtools/Visio.app/Contents/MacOS:/Applications/Vtools/bin`  
 
-## License  Modified BSD (2-Clause)
+## License  
+### Modified BSD (2-Clause)
 Copyright (c) 2010-2011 VCAD System Research Program, RIKEN. All rights reserved.  
 Copyright (c) 2012-2015 Advanced Institute for Computational Science, RIKEN. All rights reserved.  
 
