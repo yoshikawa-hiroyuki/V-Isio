@@ -13,7 +13,7 @@ If users want to use graph plot functions.
 V-Isio is installed under /usr/local/Vtools/bin.
 
 - Windows
-The installe package is provided. Run the program file `Visio_xxx.msi`
+The installe package is provided. Run the program file `Visio_xxx_setup.exe`
 You can lauch V-Isio from START MENU of your Windows system.
 
 - MacOSX
@@ -24,5 +24,5 @@ Please add command search path as follows:
 
 ## Contributors
 - Kenji Ono  keno@riken.jp
-- Hiroyuki Yoshikawa
-- Tkehiro Tawara
+- Hiroyuki Yoshikawa  yoh@jp.fujitsu.com
+
