@@ -9,7 +9,14 @@ If users want to use graph plot functions.
 
 ## Install
 - Linux
-`$ install -Uvh Visio_xxx.arch.rpm`
+ - CentOS/RHEL
+  ```
+  $ sudo rpm -Uvh Visio_xxx.arch.rpm
+  ```
+ - Ubuntu/Debian
+  ```
+  $ sudo dpkg -i v-isio_xxx_arch.deb`
+  ```
 V-Isio is installed under /usr/local/Vtools/bin.
 
 - Windows
