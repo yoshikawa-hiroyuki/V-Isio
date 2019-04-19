@@ -9,11 +9,11 @@ If users want to use graph plot functions.
 
 ## Install
 - Linux
- - CentOS/RHEL
+	- CentOS/RHEL
   ```
   $ sudo rpm -Uvh Visio_xxx.arch.rpm
   ```
- - Ubuntu/Debian
+	- Ubuntu/Debian
   ```
   $ sudo dpkg -i v-isio_xxx_arch.deb`
   ```
