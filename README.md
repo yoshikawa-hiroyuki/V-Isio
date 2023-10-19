@@ -13,9 +13,10 @@ If users want to use graph plot functions.
   ```
   $ sudo rpm -Uvh Visio_xxx.arch.rpm
   ```
-	- Ubuntu/Debian
+	- Ubuntu22
   ```
-  $ sudo dpkg -i v-isio_xxx_arch.deb`
+  $ sudo apt install -y libxml2-dev libwxgtk3.0-gtk3-dev libglew-dev libgle3-dev
+  $ sudo dpkg -i v-isio_2.4.9-x_ubuntu22_amd64.deb
   ```
 V-Isio is installed under /usr/local/Vtools/bin.
 
