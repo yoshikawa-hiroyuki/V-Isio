@@ -18,7 +18,8 @@ If users want to use graph plot functions.
   $ sudo apt install -y libxml2-dev libwxgtk3.0-gtk3-dev libglew-dev libgle3-dev
   $ sudo dpkg -i v-isio_2.4.9-x_ubuntu22_amd64.deb
   ```
-V-Isio is installed under /usr/local/Vtools/bin.
+
+  V-Isio is installed under /usr/local/Vtools/bin.
 
 - Windows
 The installe package is provided. Run the program file `Visio_xxx_setup.exe`
@@ -31,6 +32,6 @@ Please add command search path as follows:
 `/Applications/Vtools/Visio.app/Contents/MacOS:/Applications/Vtools/bin`
 
 ## Contributors
-- Kenji Ono  keno@riken.jp
-- Hiroyuki Yoshikawa  yoh@jp.fujitsu.com
+- Kenji Ono  _ono.kenji.693@m.kyushu-u.ac.jp_
+- Hiroyuki Yoshikawa  _yoh@fujitsu.com_
 
