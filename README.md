@@ -9,14 +9,15 @@ If users want to use graph plot functions.
 
 ## Install
 - Linux
-	- CentOS/RHEL
+	- RHEL/CentOS/Rocky/Alma
   ```
-  $ sudo rpm -Uvh Visio_xxx.arch.rpm
+  $ sudo dnf install -y libxml2 wxBase3 wxGTK3 glew libGLEW
+  $ sudo dnf install ./Visio_xxx.arch.rpm
   ```
 	- Ubuntu22
   ```
-  $ sudo apt install -y libxml2-dev libwxgtk3.0-gtk3-dev libglew-dev libgle3-dev
-  $ sudo dpkg -i v-isio_2.4.9-x_ubuntu22_amd64.deb
+  $ sudo apt install -y libxml2 libwxgtk3.0-gtk3 libglew libgle3
+  $ sudo apt install ./v-isio_2.4.9-x_ubuntu22_amd64.deb
   ```
 
   V-Isio is installed under /usr/local/Vtools/bin.
@@ -26,7 +27,7 @@ The installe package is provided. Run the program file `Visio_xxx_setup.exe`
 You can lauch V-Isio from START MENU of your Windows system.
 
 - MacOSX
-The installer is provided by pkg format. Double clicking `Visio_xxx.pkg` will start installation process.
+The installer is provided by pkg format. Double clicking `Visio_xxx.pkg` will start installation process.<br/>
 V-Isio is installed at `/Application/Vtools`
 Please add command search path as follows:
 `/Applications/Vtools/Visio.app/Contents/MacOS:/Applications/Vtools/bin`
