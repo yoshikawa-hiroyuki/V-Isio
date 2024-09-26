@@ -25,7 +25,7 @@ If users want to use graph plot functions.
 - Windows
 The installe package is provided. Run the program file `Visio_xxx_setup.exe`
 You can lauch V-Isio from START MENU of your Windows system.<br>
-<i>Notice: v2.4.10: volren method does not work on Windows. Use shaderVolren instead.</i>
+<i>Notice: v2.4.10+: volren method does not work on Windows. Use shaderVolren instead.</i>
 
 - MacOSX
 The installer is provided by pkg format. Double clicking `Visio_xxx.pkg` will start installation process.<br/>
